@@ -1,0 +1,6 @@
+1. Calls product() method
+2. Calls addProduct()
+3. Calls addProductSubmit()
+4. If p.Id is null it calls the save() method
+5. It then finds all the categories using getCategories()
+6. Then it calls the update() method and the site is updated.
